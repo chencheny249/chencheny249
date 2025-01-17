@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am a data science student at CU!
 
 <!--
 **chencheny249/chencheny249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
